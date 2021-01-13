@@ -1,0 +1,12 @@
+H2:hover{ color:   BLUE;
+}
+H2{ color:   GREY;
+}
+BODY{
+  background-color: RED;
+}
+
+img{
+  width:100px;
+  border-radius: 100%;
+}
